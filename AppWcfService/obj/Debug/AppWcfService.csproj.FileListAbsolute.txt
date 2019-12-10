@@ -1,0 +1,6 @@
+C:\Users\ricardosrd.TRANSBRASA\source\repos\AppWcfService\AppWcfService\bin\AppWcfService.dll.config
+C:\Users\ricardosrd.TRANSBRASA\source\repos\AppWcfService\AppWcfService\bin\AppWcfService.dll
+C:\Users\ricardosrd.TRANSBRASA\source\repos\AppWcfService\AppWcfService\bin\AppWcfService.pdb
+C:\Users\ricardosrd.TRANSBRASA\source\repos\AppWcfService\AppWcfService\obj\Debug\AppWcfService.csprojAssemblyReference.cache
+C:\Users\ricardosrd.TRANSBRASA\source\repos\AppWcfService\AppWcfService\obj\Debug\AppWcfService.dll
+C:\Users\ricardosrd.TRANSBRASA\source\repos\AppWcfService\AppWcfService\obj\Debug\AppWcfService.pdb
